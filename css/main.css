@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@import url('./variables.css');
+@import url('./button.css');
+
+* {
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--color-background-dark);
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 200px;
+}
+
+/* HEADER */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    border-bottom: 1px solid var(--color-accent);
+}
+
+.header-name {
+    font-size: var(--rpx-20);
+    font-weight: bold;
+    color: var(--color-white);
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+}
+
+.nav-main {
+    display: flex;
+    align-items: flex-end;
+    gap: var(--rpx-40);
+    font-size: var(--rpx-16);
+    margin-right: 71px;
+    color: white;
+}
+
+/* HERO */
+
+.hero {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 80px);
+    color: var(--color-white);
+    overflow: hidden;
+}
+
+.hero h1 {
+    text-align: center;
+    font-size: 54px;
+    line-height: 66px;
+    margin-top: 50px;
+    color: var(--color-primary);
+}
+
+.hero .watermark {
+    position: absolute;
+}
+
+.hero .icon{
+    bottom: -150px;
+    left: 0;
+}
+
+.hero .pills{
+    position: absolute;
+    bottom: 50px;
+    right: -50px;
+}
+
+.hero .scroll-indicator {
+    margin-top: 50px;
+}
+
+.hero p {
+    font-size: var(--rpx-18);
+    text-align: center;
+    line-height: 40px;
+    width: 1000px;
+    margin: var(--rpx-18) 0 var(--rpx-40) ;
+}

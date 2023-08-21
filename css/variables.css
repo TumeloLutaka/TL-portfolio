@@ -1,0 +1,14 @@
+:root{
+    
+    --color-background-dark: #333;
+    --color-primary: #47E247;
+    --color-accent: #4A4A4A;
+    --color-white: #fff;
+
+    --rpx-54: 3.375rem;
+    --rpx-40: 2.5rem;
+    --rpx-20: 1.25rem;
+    --rpx-18: 1.125rem;
+    --rpx-16: 1rem;
+    --rpx-10: 0.500rem;
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="579.176" height="587.416" viewBox="0 0 579.176 587.416">
+  <g id="Group_1" data-name="Group 1" transform="matrix(0.899, 0.438, -0.438, 0.899, 141.241, -137.306)" opacity="0.08">
+    <g id="Path_1" data-name="Path 1" transform="translate(322.196 0) rotate(45)" fill="none" stroke-linecap="round">
+      <path d="M0,0,378.761,76.892l76.892,378.761L76.892,378.761Z" stroke="none"/>
+      <path d="M 12.80313110351562 12.80313110351562 L 85.37445068359375 370.2794494628906 L 442.8507690429688 442.8507690429688 L 370.2794494628906 85.37445068359375 L 12.80313110351562 12.80313110351562 M 3.0517578125e-05 3.0517578125e-05 L 378.761474609375 76.89242553710938 L 455.6538696289062 455.6538696289062 L 76.89242553710938 378.761474609375 L 3.0517578125e-05 3.0517578125e-05 Z" stroke="none" fill="#47e247"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(426.496 322.196) rotate(135)" fill="none" stroke="#47e247" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+      <rect width="147.503" height="147.503" stroke="none"/>
+      <rect x="5" y="5" width="137.503" height="137.503" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(428.739 428.739) rotate(180)" fill="none" stroke="#47e247" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+      <rect width="213.086" height="213.086" stroke="none"/>
+      <rect x="5" y="5" width="203.086" height="203.086" fill="none"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(468.891 577.633) rotate(180)" fill="none" stroke="#47e247" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+      <rect width="293.39" height="510.464" stroke="none"/>
+      <rect x="5" y="5" width="283.39" height="500.464" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(557.077 321.553)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1.696" height="1.696" stroke="none"/>
+      <rect x="0.5" y="0.5" width="0.696" height="0.696" fill="none"/>
+    </g>
+  </g>
+</svg>
